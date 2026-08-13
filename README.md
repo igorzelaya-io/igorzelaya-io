@@ -28,4 +28,4 @@ I design and build distributed, event-driven backend systems using Java and Spri
 
 ## Reach me
 
-[LinkedIn](#https://www.linkedin.com/in/igor-a-zelaya/) · [Email](#izelaya22@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/igor-a-zelaya/) · [Email](izelaya22@gmail.com)
