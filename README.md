@@ -10,7 +10,7 @@ I design and build distributed, event-driven backend systems using Java and Spri
 
 ## Background
 
-- 6+ years building backend systems for enterprise clients across retail sourcing, fintech, and government platforms
+- 7+ years building backend systems for enterprise clients across retail sourcing, fintech, and government platforms
 - Led the modernization of a national land-tenure registry system (Java 1.6 → 11), boosting processing speed by over 60%
 - Designed a cloud-based banking switch middleware used for daily payment reconciliation and authentication between banks and government institutions
 - Led delivery of enterprise ERP and multi-vendor sourcing platforms integrating PostgreSQL, Apache Kafka, and external vendor APIs
