@@ -6,7 +6,7 @@ I design and build distributed, event-driven backend systems using Java and Spri
 
 ## Currently building
 
-**[MercadoX](https://github.com/igorzelaya-io/mercado-x-core)** — an event-driven, multi-tenant e-commerce platform built as a set of Spring Boot microservices (core domain logic, OAuth2 authorization, context management, async messaging) communicating over Kafka.
+**[MercadoX](https://github.com/igorzelaya-io/mercado-x-parent)** — an event-driven, multi-tenant e-commerce platform built as a set of Spring Boot microservices (core domain logic, OAuth2 authorization, context management, async messaging) communicating over Kafka.
 
 ## Background
 
