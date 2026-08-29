@@ -2,7 +2,7 @@
 
 **Senior Backend Developer | Java · Spring Boot · Distributed Systems**
 
-I design and build distributed, event-driven backend systems using Java and Spring Boot — from multi-vendor sourcing platforms and banking middleware to enterprise ERP systems and national-scale government registries. My focus is translating complex business requirements into reliable, high-performance software through Domain-Driven Design, Hexagonal Architecture, and modern engineering practices.
+Igor designs and builds distributed, event-driven backend systems using Java and Spring Boot — from multi-vendor sourcing platforms and banking middleware to enterprise ERP systems and national-scale government registries. His focus is translating complex business requirements into reliable, high-performance software through Domain-Driven Design, Hexagonal Architecture, and modern engineering practices.
 
 ## Currently building
 
