@@ -18,7 +18,7 @@ Igor designs and builds distributed, event-driven backend systems using Java and
 ## Recent open-source work
 
 - **[RTK](https://github.com/rtk-ai/rtk/pull/4076)** — open Rust fix that preserves elapsed time in compressed pytest results, validated against more than 3,600 project tests
-- **[Tabularis](https://github.com/TabularisDB/tabularis/pull/742)** — merged mTLS test-reliability fix that generates certificates at runtime; a second [JSON viewer behavior fix](https://github.com/TabularisDB/tabularis/pull/763) is open for review
+- **[Tabularis](https://github.com/TabularisDB/tabularis/pull/742)** — merged mTLS test-reliability fix that generates certificates at runtime; a [read-only JSON viewer fix](https://github.com/TabularisDB/tabularis/pull/763) and its [context-menu follow-up](https://github.com/TabularisDB/tabularis/pull/781) are open for review
 - **[Dataverse](https://github.com/IQSS/dataverse/pull/12684)** — open Java fix for a double-escaped OAI-PMH `directApiCall` URL
 - **[Voiden](https://github.com/VoidenHQ/voiden/pull/559)** — open UI-state fix that prevents search selection from forcing an unwanted scroll
 
