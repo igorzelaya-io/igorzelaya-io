@@ -6,7 +6,7 @@ Igor designs and builds distributed, event-driven backend systems using Java and
 
 ## Currently building
 
-**[MercadoX](https://github.com/igorzelaya-io/mercado-x-parent)** — an event-driven, multi-tenant e-commerce platform built as a set of Spring Boot microservices (core domain logic, OAuth2 authorization, context management, async messaging) communicating over Kafka. Current architecture work includes a [thin Maven parent 2.0 contract](https://github.com/igorzelaya-io/mercado-x-parent/pull/1) that removes accidental framework inheritance and verifies consumers in CI.
+**[MercadoX](https://github.com/igorzelaya-io/mercado-x-parent)** — an event-driven, multi-tenant e-commerce platform built as a set of Spring Boot microservices (core domain logic, OAuth2 authorization, context management, async messaging) communicating over Kafka. Its [thin Maven parent 2.0 contract](https://github.com/igorzelaya-io/mercado-x-parent/pull/1) is now merged, removing accidental framework inheritance and verifying consumers in CI.
 
 ## Background
 
@@ -17,10 +17,10 @@ Igor designs and builds distributed, event-driven backend systems using Java and
 
 ## Recent open-source work
 
-- **[RTK](https://github.com/rtk-ai/rtk/pull/4076)** — open Rust fix that preserves elapsed time in compressed pytest results, validated against more than 3,600 project tests
-- **[Tabularis](https://github.com/TabularisDB/tabularis/pull/742)** — merged mTLS test-reliability fix that generates certificates at runtime; a [read-only JSON viewer fix](https://github.com/TabularisDB/tabularis/pull/763) and its [context-menu follow-up](https://github.com/TabularisDB/tabularis/pull/781) are open for review
-- **[Dataverse](https://github.com/IQSS/dataverse/pull/12684)** — open Java fix for a double-escaped OAI-PMH `directApiCall` URL
-- **[Voiden](https://github.com/VoidenHQ/voiden/pull/559)** — open UI-state fix that prevents search selection from forcing an unwanted scroll
+- **[RTK](https://github.com/rtk-ai/rtk/pull/4076)** — open Rust fix that preserves elapsed time in compressed pytest results; CLA complete, tests included, and automated triage classifies it as low risk
+- **Tabularis** — merged [mTLS test-reliability](https://github.com/TabularisDB/tabularis/pull/742) and [read-only JSON viewer](https://github.com/TabularisDB/tabularis/pull/763) fixes; the [context-menu follow-up](https://github.com/TabularisDB/tabularis/pull/781) is conflict-free with CI passing and awaits review
+- **[Dataverse](https://github.com/IQSS/dataverse/pull/12684)** — open Java fix for a double-escaped OAI-PMH `directApiCall` URL, with its documentation check passing and awaiting review
+- **[Voiden](https://github.com/VoidenHQ/voiden/pull/559)** — open, mergeable UI-state fix that prevents search selection from forcing an unwanted scroll and awaits review
 
 ## Tech stack
 
